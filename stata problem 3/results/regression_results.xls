@@ -1,0 +1,28 @@
+Regression Results
+------------------------------------
+                              (1)   
+                       GDP_growth   
+------------------------------------
+(mean) trust_people        -55.19   
+                         (4027.9)   
+
+(mean) trust_army           120.4   
+                         (1154.6)   
+
+(mean) trust_police         270.5   
+                         (1528.4)   
+
+(mean) trust_courts       -1578.9   
+                         (1353.3)   
+
+(mean) education_l~l        37.46   
+                          (247.0)   
+
+Constant                   3092.2   
+                         (7275.5)   
+------------------------------------
+Observations                   79   
+Adjusted R-squared         -1.243   
+------------------------------------
+Standard errors in parentheses
+* p<0.10, ** p<0.05, *** p<0.01
